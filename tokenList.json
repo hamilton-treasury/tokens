@@ -1,0 +1,28 @@
+{
+    "name": "Hamilton Token List",
+    "logoURI": "https://your.cdn.com/brand/hamilton-logo.png",
+    "keywords": ["hamilton", "yield", "stablecoin"],
+    "timestamp": "2025-09-29T00:00:00+00:00",
+    "version": { "major": 1, "minor": 0, "patch": 0 },
+    "tokens": [
+      {
+        "chainId": 1,
+        "address": "0xYOUR_USDH_MAINNET",
+        "name": "Hamilton USDh",
+        "symbol": "USDh",
+        "decimals": 6,
+        "logoURI": "https://your.cdn.com/tokens/usdh.png",
+        "tags": ["stablecoin"]
+      },
+      {
+        "chainId": 11155111,
+        "address": "0x6886625E01B2F2643Ef52eF5F501BCBE7bb28253",
+        "name": "Hamilton USDh (Sepolia)",
+        "symbol": "USDh",
+        "decimals": 6,
+        "logoURI": "https://your.cdn.com/tokens/usdh.png",
+        "tags": ["testnet"]
+      }
+    ]
+  }
+  
