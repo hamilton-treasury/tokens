@@ -25,7 +25,7 @@
       },
       {
         "chainId": 11155111,
-        "address": "0xE99d6648e99B09BA8dDD90757ce4B4F69D4991F1",
+        "address": "0xA45D45E23D8810d8cA65840039f831035fb0C6A3",
         "name": "Staked Hamilton USDh (Sepolia)",
         "symbol": "sUSDh",
         "decimals": 6,
