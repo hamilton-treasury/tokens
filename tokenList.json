@@ -11,7 +11,7 @@
         "name": "Hamilton USDh",
         "symbol": "USDh",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/hamilton-treasury/tokens/4e592caf5b5ddb0aa274ba7dedc232ca84f43e4f/USDh.png",
+        "logoURI": "https://raw.githubusercontent.com/hamilton-treasury/tokens/main/USDh.png",
         "tags": ["stablecoin", "hamilton", "treasury", "USDh"]
       },
       {
@@ -20,16 +20,16 @@
         "name": "Hamilton USDh (Sepolia)",
         "symbol": "USDh",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/hamilton-treasury/tokens/4e592caf5b5ddb0aa274ba7dedc232ca84f43e4f/USDh.png",
+        "logoURI": "https://raw.githubusercontent.com/hamilton-treasury/tokens/main/USDh.png",
         "tags": ["testnet"]
       },
       {
         "chainId": 11155111,
-        "address": "0x7C80B154E028bF63D9a68F75c0af16E20677316a",
+        "address": "0x9959A944Eda2e4221416AF5d0682baa861407f19",
         "name": "Staked Hamilton USDh (Sepolia)",
         "symbol": "sUSDh",
         "decimals": 6,
-        "logoURI": "https://raw.githubusercontent.com/hamilton-treasury/tokens/8b96aa72d843ec72a12c5fb3b9a45f097b922f8e/sUSDh.png",
+        "logoURI": "https://raw.githubusercontent.com/hamilton-treasury/tokens/main/sUSDh.png",
         "tags": ["testnet"]
       }
     ]
